@@ -17,7 +17,9 @@ I found a big challenge in interpreting the data, because there could be multipl
 ## Results:
 ### Conclusions about the Theater Outcomes by Launch Date
 •	The month of May has the highest Launch Outcome Success followed by June and July.
+
 •	The month of December has the lowest Launch Outcome Success.
+
 ### Conclusions about the Outcomes based on Goals
 •	When Louis set the goal amount to less than $1000, the percentage of success rate was higher. But as the amount goes higher the percentage of success started decreasing. 
  
