@@ -37,3 +37,8 @@ I found a big challenge in interpreting the data, because there could be multipl
 ### Limitation of the data set 
 •	More parameters need to be included along with launch date and goal amount like data of audience signed up before the launch date, etc. to analyze and make this project 
   successful.
+  ### 	What are some other possible tables and/or graphs that we could create?
+•	It is better to include the  graphs of successful outcomes of Parent Category and Subcategory in US.
+•	Also if the statistical analysis data tables with mean and median values of the pledged and goal amount along with outcomes added, would help Louis to plan her campaign with
+  confidence in many places.
+
