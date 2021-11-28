@@ -13,7 +13,7 @@ To analyze the outcome based on launch date, a formula was used to create a colu
 [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 
 
-![Pivot_Chart_outcomes_vs_launch_0.1.png](Resources/Pivot_Chart_outcomes_vs_launch_0.1.png)
+![Pivot_Chart_outcomes_vs_launch.png](Resources/Pivot_Chart_outcomes_vs_launch.png)
 
 
 ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
@@ -41,6 +41,6 @@ I found a big challenge in interpreting the data, because there could be multipl
   ### 	What are some other possible tables and/or graphs that we could create?
 •	It is better to include the  graphs of successful outcomes based on Parent Category and Subcategory in US.
 
-•	If we can include statistical analysis tables with mean and median values then Louise will be able to easily determine and extreme data points and take appropiate steps to  
+•	If we can include statistical analysis tables with mean and median values,then Louise will be able to easily determine and extreme data points and take appropiate steps to  
   make her campaign successful. 
 
