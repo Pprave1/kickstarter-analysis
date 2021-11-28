@@ -12,7 +12,7 @@ To analyze the outcome based on launch date, a formula was used to create a colu
 
 [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 
-![Github Logo](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis based on Goal’s outcome:
