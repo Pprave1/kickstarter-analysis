@@ -33,13 +33,12 @@ I found a big challenge in interpreting the data, because there could be multipl
 •	The month of December has the lowest Launch Outcome Success.
 
 ### Conclusions about the Outcomes based on Goals
-•	When Louis set the goal amount to less than $1000, the percentage of success rate was higher. But as the amount goes higher the percentage of success started decreasing. 
+•	When Louise set the goal amount to less than $1000, the percentage of success rate was higher. But as the amount goes higher the percentage of success started decreasing. 
  
 ### Limitation of the data set 
 •	More parameters need to be included along with launch date and goal amount like data of audience signed up before the launch date, etc. to analyze and make this project 
   successful.
   ### 	What are some other possible tables and/or graphs that we could create?
 •	It is better to include the  graphs of successful outcomes based on Parent Category and Subcategory in US.
-•	Also if the statistical analysis data tables with mean and median values of the pledged and goal amount along with outcomes added, would help Louis to plan her campaign with
-  confidence in many places.
+•	If we can include statistical analysis tables with mean and median values then Louise will be able to to plan her campaign with  confidence.
 
