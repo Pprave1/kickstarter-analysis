@@ -20,6 +20,6 @@ I found a big challenge in interpreting the data, because there could be multipl
 •	The month of December has the lowest Launch Outcome Success.
 ### Conclusions about the Outcomes based on Goals
 •	When Louis set the goal amount to less than $1000, the percentage of success rate was higher. But as the amount goes higher the percentage of  
-  success started decreasing.
+ success started decreasing.
 ### Limitation of the data set 
 •	More parameters need to be included along with launch date and goal amount like data of audience signed up before the launch date, etc. to analyze and make this project successful.
