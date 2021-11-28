@@ -13,9 +13,6 @@ To analyze the outcome based on launch date, a formula was used to create a colu
 [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 
 
-![Pivort_Chart _outcomes_vs_launch.png](Resources/Pivort_Chart _outcomes_vs_launch.png)
-
-
 ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 
@@ -31,6 +28,7 @@ I found a big challenge in interpreting the data, because there could be multipl
 •	The month of May has the highest Launch Outcome Success followed by June and July.
 
 •	The month of December has the lowest Launch Outcome Success.
+![Pivort_Chart _outcomes_vs_launch.png](Resources/Pivort_Chart _outcomes_vs_launch.png)
 
 ### Conclusions about the Outcomes based on Goals
 •	When Louis set the goal amount to less than $1000, the percentage of success rate was higher. But as the amount goes higher the percentage of success started decreasing. 
