@@ -12,6 +12,8 @@ To analyze the outcome based on launch date, a formula was used to create a colu
 
 [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 
+![Github Logo](Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis based on Goal’s outcome:
 After creating outcome analyses based on launch date, I performed another analyses to visualize the percentage of successful, failed, and canceled plays based on funding goal amount. For that, I created columns to populate the data for “Number Successful”, “Number Failed," and "Number Canceled" using COUNTIFS () function, which collects the outcome and goal data based on “plays” subcategory. Also, I created a “Goal” column to create dollar-amount ranges so that projects can be grouped based on their goal amount. Another function named Sum () is used to populate the “Total Projects” column to add the total of Number of successful, failed, and canceled data. Percentage of Successful, failed, and canceled data were calculated based on data from the “Total Projects “column using the formula. A line chart was created and saved as Outcomes_vs_Goals.png with goal ranges on X-axis and percentage of successful, failed and canceled on Y-axis.
