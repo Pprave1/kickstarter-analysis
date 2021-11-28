@@ -41,5 +41,6 @@ I found a big challenge in interpreting the data, because there could be multipl
   ### 	What are some other possible tables and/or graphs that we could create?
 •	It is better to include the  graphs of successful outcomes based on Parent Category and Subcategory in US.
 
-•	If we can include statistical analysis tables with mean and median values then Louise will be able to easily determine and extreme data points and take appropiate steps to make her campaign successful. 
+•	If we can include statistical analysis tables with mean and median values then Louise will be able to easily determine and extreme data points and take appropiate steps to  
+  make her campaign successful. 
 
