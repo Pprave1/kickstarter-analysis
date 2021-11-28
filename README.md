@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-##Overview of the project:
+## Overview of the project:
 A playwriter named Louise wants to start a crowdfunding campaign to fund her play “FEVER” with an estimated budget of $10,000. Louise also wants to analyze how different 
 campaigns fared in relation to their launch dates and funding goals.
 ### Purpose
